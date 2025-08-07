@@ -1,0 +1,19 @@
+# Ignore arquivos do sistema
+*.DS_Store
+*.class
+*.log
+
+# Diretórios comuns de IDE
+.idea
+*.iml
+.vscode
+
+# Build do Maven/Gradle
+target/
+build/
+
+# Arquivos de controle
+.env
+docker-compose.override.yml
+Dockerfile
+.dockerignore

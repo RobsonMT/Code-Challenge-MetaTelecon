@@ -1,0 +1,19 @@
+# Ignore arquivos do sistema
+*.DS_Store
+*.log
+
+# Diretórios de dependências e build
+node_modules/
+dist/
+.tmp/
+.angular/
+
+# Diretórios comuns de IDE
+.idea/
+.vscode/
+*.swp
+
+# Arquivos de ambiente
+.env
+.dockerignore
+Dockerfile
