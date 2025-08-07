@@ -1,5 +1,6 @@
 package com.example.cliente_crud.controller;
 
+import org.springframework.web.bind.annotation.CrossOrigin;
 import com.example.cliente_crud.model.Cliente;
 import com.example.cliente_crud.service.ClienteService;
 import org.springframework.http.ResponseEntity;

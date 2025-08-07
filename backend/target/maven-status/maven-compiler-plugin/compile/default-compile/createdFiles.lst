@@ -1,5 +1,5 @@
 com/example/cliente_crud/controller/ClienteController.class
 com/example/cliente_crud/ClienteApplication.class
+com/example/cliente_crud/service/ClienteService.class
 com/example/cliente_crud/repository/ClienteRepository.class
 com/example/cliente_crud/model/Cliente.class
-com/example/cliente_crud/service/ClienteService.class

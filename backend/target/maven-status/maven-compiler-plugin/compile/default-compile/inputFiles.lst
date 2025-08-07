@@ -1,4 +1,5 @@
 /home/robsonfernandomartins/Desktop/GitHub/Code-Challenge-MetaTelecon/backend/src/main/java/com/example/cliente_crud/ClienteApplication.java
+/home/robsonfernandomartins/Desktop/GitHub/Code-Challenge-MetaTelecon/backend/src/main/java/com/example/cliente_crud/config/SecurityConfig.java
 /home/robsonfernandomartins/Desktop/GitHub/Code-Challenge-MetaTelecon/backend/src/main/java/com/example/cliente_crud/controller/ClienteController.java
 /home/robsonfernandomartins/Desktop/GitHub/Code-Challenge-MetaTelecon/backend/src/main/java/com/example/cliente_crud/model/Cliente.java
 /home/robsonfernandomartins/Desktop/GitHub/Code-Challenge-MetaTelecon/backend/src/main/java/com/example/cliente_crud/repository/ClienteRepository.java
